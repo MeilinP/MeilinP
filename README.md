@@ -1,4 +1,4 @@
-# Hi there, I'm Meilin Pan!
+# Hi, I'm Meilin Pan!
 
 **Master's in Data Science at USC** | **Quant Finance & ML Enthusiast**
 
