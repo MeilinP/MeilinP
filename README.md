@@ -26,11 +26,8 @@ I have engaged in independent discretionary options trading since October 2024, 
 - **[Audio Event Detection and Notification System](https://github.com/MeilinP/dsci560_final_project)**  
   Group project integrating mobile audio collection, AWS EC2, SageMaker inference, and automated alerts. I was responsible for data preprocessing and model training.
 
-- **[Hybrid Recommendation System](https://github.com/MeilinP/USC/tree/main/DSCI553/Competition)**  
+- **[Hybrid Recommendation System](https://github.com/MeilinP/hybrid-recommender-system)**  
   Built a PySpark-based rating prediction pipeline combining collaborative filtering with XGBoost and gradient-boosting models using user, business, check-in, photo, and interaction features.
-
-- **[Stateful GRU Market Forecasting](https://github.com/MeilinP/jane-street-market-forecasting)** *(work in progress)*  
-  Implementing a PyTorch GRU ensemble with per-symbol rolling features, stateful inference, and online learning for non-stationary time-series prediction.
 
 ## Highlights
 
