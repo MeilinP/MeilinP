@@ -12,8 +12,8 @@ I have engaged in independent discretionary options trading since October 2024, 
 
 ### Quantitative Research and Financial Modeling
 
-- **[Derivatives Pricing & Risk Toolkit](https://github.com/MeilinP/SOFR-Curve-Bootstrapping-and-Calibration)**  
-  Bootstrapped a 40-year SOFR OIS curve, constructed key-rate DV01 ladders, and implemented market-convention-aware pricing and risk calculations. Related work includes [SABR volatility-surface calibration](https://github.com/MeilinP/sabr-calibration) and [options P&L attribution](https://github.com/MeilinP/pnl-explain).
+- **[Derivatives Pricing & Risk](https://github.com/MeilinP/derivatives-pricing-risk)**  
+  End-to-end chain from market quotes to a risk number: a 40-year SOFR OIS curve bootstrapped from SR3 futures and swaps under exact market conventions, a SABR calibration of the SPY implied-volatility surface with static-arbitrage diagnostics, Greek P&L attribution on an eight-leg option book with FRTB PLA testing, and a VaR/ES and stress-testing framework documented to SR 11-7. Second-order Greek terms cut unexplained P&L by 87.6%; the validation report states the framework's failures alongside its results.
 
 - **[IMC Prosperity 4 Review](https://github.com/MeilinP/imc-prosperity-4-review)**  
   Reconstructed and evaluated trading strategies across market making, options, auctions, and multi-asset relative value using market replay, order reconciliation, and P&L attribution.
