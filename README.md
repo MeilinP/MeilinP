@@ -14,7 +14,7 @@ I have engaged in independent discretionary options trading since October 2024, 
   Coursework: Data Mining, Machine Learning, Database Systems, Bias in Large Language Models
 
 - **B.S. Statistics and Data Science**, University of California, Santa Barbara  
-  Coursework: Stochastic Processes I & II, Differential Equations, Nonparametric Methods, Experimental Design, Python and Object-Oriented Programming, Loss Models, Derivative Markets, Fixed Income Markets
+  Coursework: Stochastic Processes I & II, Differential Equations, Nonparametric Methods, Experimental Design, Python and Object-Oriented Programming, Loss Models, Derivative Markets, Fixed Income Markets, Regression Analysis
 
 ## Selected Work
 
